@@ -1,3 +1,8 @@
+/*
+ * Basic Script
+ * Author: Diego Piccini da Todi, contact@diegopiccinidatodi.com
+ * April, 2023
+ */
 public class MyCoins {
 
     public static void main(String[] args) {

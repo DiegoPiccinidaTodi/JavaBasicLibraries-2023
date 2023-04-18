@@ -1,5 +1,5 @@
 /*
- * Base4
+ * Basic Script
  * Author: Diego Piccini da Todi, contact@diegopiccinidatodi.com
  * April, 2023
  */

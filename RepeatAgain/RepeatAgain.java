@@ -1,3 +1,8 @@
+/*
+ * Basic Script
+ * Author: Diego Piccini da Todi, contact@diegopiccinidatodi.com
+ * April, 2023
+ */
 import static java.lang.System.out;
 
 public class RepeatAgain {
